@@ -39,11 +39,11 @@ This is just a proof of concept and for educational purposes only!!!
 
 <p align="center"> 
     <b>-= Quick Info For This Repo =-</b><br>
-    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/RedFurrFox/PSpammerv2?style=social">
-    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/RedFurrFox/PSpammerv2">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/RedFurrFox/PSpammerv2">
-    <img alt="GitHub" src="https://img.shields.io/github/license/RedFurrFox/PSpammerv2">
-    <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/RedFurrFox/PSpammerv2?style=social">
+    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/RedFurrFox/Gthub-View-Spammer.en?style=social">
+    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/RedFurrFox/Gthub-View-Spammer.en">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/RedFurrFox/Gthub-View-Spammer.en">
+    <img alt="GitHub" src="https://img.shields.io/github/license/RedFurrFox/Gthub-View-Spammer.en">
+    <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/RedFurrFox/Gthub-View-Spammer.en?style=social">
 </p>
 
 ---
