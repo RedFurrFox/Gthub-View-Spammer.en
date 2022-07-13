@@ -5,7 +5,7 @@ This is just a proof of concept and for educational purposes only!!!
 
 ## How To Use?
 ### - Step One: Download this repo then open "main.py"
-### - Step Two: Copy Your Github View Tag
+### - Step Two: Copy Your Github View Tag Link
 ### - Step Three: Paste it on the terminal and your good to go.
 
 ---
